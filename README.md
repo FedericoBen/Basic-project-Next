@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+# Basic project with Next
+
+This is a simple app create with Next, that pretend show how to use server side rendering pages
+and a component Nav in client side rendering
 
 ## Getting Started
 
